@@ -1,5 +1,5 @@
 # Cryptography-Cia
-Ciphers  implemented using c code:
+Ciphers implemented using c code:
 
 Ceasers 
 Atbash
